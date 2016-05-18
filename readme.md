@@ -19,3 +19,9 @@ According to Zev, the following describes the origins of the project:
 Thanks to the work of Graham MacDonald at the Urban Institute there is a tool that allows for the combination of the Before/After plugin with a slippy map (the kind that lets you zoom and pan). You can read <a href="http://datatools.metrotrends.org/charts/metrodata/_Blog/Maps/BeforeAfter/index.cfm" target="_blank">Graham’s discussion</a> but we will provide a walk-through of the code in this post. By the way, the Urban Institute has a very nice implementation of the functionality in their <a href="http://datatools.metrotrends.org/charts/metrodata/_Blog/Maps/PovertyRace_DW/Map.html" target="_blank">Poverty and Race in America map</a>.
 </p>
 </blockquote>
+
+### How can I use it?
+1. Clone this project onto your web space.
+2. Add the images you would like to compare in the "imgs" folder. You must have at least two images, and images must have the same pixel dimensions.
+3. Open the "Settings.js" file in a text editor.
+4. Update the file with information based on the images you loaded.
