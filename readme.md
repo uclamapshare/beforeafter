@@ -7,6 +7,11 @@ This is a ready-to-use html code template that allows you to create an interacti
 http://sandbox.idre.ucla.edu/web/beforeafter/
 
 ### How does it work?
+This simple map viewer puts two images side-by-side in a single viewer. The two images are separated by a "slider" with a green handle. Moving, or "swiping" the handle left and right allows you to reveal more or less of each image. Additionally, zooming in and out of the image allows you to show more or less detail within the viewer window.
+
+When two or more images are included in the project, the dropdown menu on the bottom left and right, respectively, allows users to choose which maps to compare.
+
+### How was the project produced?
 This project borrows from the following Zev Ross blog post:
 
 http://zevross.com/blog/2014/08/12/add-a-before-after-map-slider-to-a-leaflet-map/
