@@ -21,7 +21,11 @@ Thanks to the work of Graham MacDonald at the Urban Institute there is a tool th
 </blockquote>
 
 ### How can I use it?
-1. Clone this project onto your web space.
+1. If you are familiar with git, you can clone this project.
+2. If you are not familiar with git, you can choose to download it directly by going to the green "clone or download" button (located at the top of this page), and select "download zip".
+3. Unzip the project into a desired location on your computer, or your server.
 2. Add the images you would like to compare in the "imgs" folder. You must have at least two images, and images must have the same pixel dimensions.
 3. Open the "Settings.js" file in a text editor.
-4. Update the file with information based on the images you loaded.
+4. Update the file with information based on the images you loaded. You will need to enter the pixel dimensions of the images (width and height), relative paths to the images, and a title description for each image.
+5. Open a browser, and open the index.html file.
+6. 
