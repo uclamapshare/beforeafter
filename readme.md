@@ -28,4 +28,3 @@ Thanks to the work of Graham MacDonald at the Urban Institute there is a tool th
 3. Open the "Settings.js" file in a text editor.
 4. Update the file with information based on the images you loaded. You will need to enter the pixel dimensions of the images (width and height), relative paths to the images, and a title description for each image.
 5. Open a browser, and open the index.html file.
-6. 
